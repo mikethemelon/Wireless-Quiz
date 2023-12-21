@@ -6,5 +6,6 @@ https://www.virustotal.com/gui/file/20a4a9033567e2aade47bae4a005cf5966ec3a2fddc5
 
 https://www.virustotal.com/gui/file/f336df547f59c913eea1b947fab4b5fa624eefeb72d9d17e9736d3a409c000e0
 
-# Cách cài đặt: Chạy file .exe hoặc .msi
+# Cách cài đặt: Tải về nguyên source & chạy file .exe hoặc .msi
+<img src="p2.jpg" alt="Alt text" title="Optional title">
 Credit: https://ctthanh.com/wordpress/
